@@ -9,7 +9,7 @@
 #--------------------------
 title: Heythere                          # the main title
 
-tagline: A Cyber Security Newbie.  # it will display as the sub-title
+tagline: A Cyber Security Newbie  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -76,7 +76,7 @@ disqus:
 #
 #     dark   - Use the dark color scheme
 #
-theme_mode: dual
+theme_mode: dark
 
 # boolean type, the global switch for ToC in posts.
 toc: true
