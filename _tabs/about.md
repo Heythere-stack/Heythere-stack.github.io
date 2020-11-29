@@ -11,4 +11,4 @@ order: 4
 ---
 
 
-> A Cyber Security Newbie. I will **Try Harder**
+A Cyber Security Newbie. I will **Try Harder**
