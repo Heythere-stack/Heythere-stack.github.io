@@ -32,7 +32,8 @@ html[mode=dark] {
 /* -- Codes Snippet -- */
 
 %code-snippet-bg {
-  background: var(--highlight-bg-color);
+  /*background: var(--highlight-bg-color);*/
+  background: #363b45;
 }
 
 %code-snippet-radius {
@@ -55,7 +56,7 @@ div > pre {
   @extend %code-snippet-bg;
   @extend %code-snippet-radius;
 
-  color: var(--highlighter-rouge-color);
+  color: var(--highlighter-rouge-color);	
   margin-bottom: 1.2em; /* Override BS Inline-code style */
 }
 
