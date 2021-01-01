@@ -2,7 +2,7 @@
 title: Try Hack Me - Gaming Server
 date: 2021-01-01 16:32 +0300
 categories: [Try Hack Me]
-tags: [Linux, Lxd privilege escalation]     # TAG names should always be lowercase
+tags: [linux, lxd privilege escalation]     # TAG names should always be lowercase
 ---
 
 # Welcome
