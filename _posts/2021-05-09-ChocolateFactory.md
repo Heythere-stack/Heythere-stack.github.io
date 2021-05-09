@@ -413,6 +413,6 @@ You can brute the hash with **John** or **Hashcat** and after the connect to SSH
 
 
 # Userful for me references
-
+<div><a href="http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet">Reverse Shells</a></div>
 <div><a href="https://gtfobins.github.io/gtfobins/vi/">GTFOBins vi</a></div>
 
