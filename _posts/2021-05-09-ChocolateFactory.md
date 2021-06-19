@@ -126,7 +126,7 @@ Now go to web page.
 
 # Gobuster
 
-On web page you can see the login page
+We can see the login page
 
 <img src="/assets/img/chocolatefactory_img/login_page.jpg">
 
@@ -181,7 +181,7 @@ drwxr-xr-x 3 root    root       4096 Sep 29  2020 ..
 -rw-rw-r-- 1 charlie charley     303 Sep 30  2020 validate.php
 </pre>
 
-What do we have inside <code class="language-plaintext highlighter-rouge">validate.php</code>.
+What we have inside <code class="language-plaintext highlighter-rouge">validate.php</code>.
 
 <pre>
 www-data@chocolate-factory:/var/www/html$ cat validate.php
@@ -409,7 +409,7 @@ _gvm:*:18496:0:99999:7:::
 charlie:$6$******************************************************************jPYeeGyIJWE82X/:18535:0:99999:7:::
 </pre>
 
-You can brute the hash with **John** or **Hashcat** and after the connect to SSH as user Charlie.
+You can brute the hash with **John** or **Hashcat** and after that connect to SSH as user Charlie.
 
 
 # Userful for me references
