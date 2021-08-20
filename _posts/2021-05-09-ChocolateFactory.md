@@ -2,12 +2,12 @@
 title: Try Hack Me - Chocolate Factory
 date: 2021-05-09 16:42 +0300
 categories: [Try Hack Me]
-tags: [linux, stego, vi]     # TAG names should always be lowercase
+<! -- tags: [linux, stego, vi]     # TAG names should always be lowercase -->
 ---
 
 # Welcome
 
-Hey there! Glad to see you. It was funny box for me because i did everything in another order ;-)
+Hey there! Glad to see you.
 
 # Nmap
 
