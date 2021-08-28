@@ -242,7 +242,7 @@ flag{cd*********************}
 </pre>
 
 # Privilage Escalation
-Let's see waht user **charlie** can do
+Let's see what user **charlie** can do
 <pre>
 sudo -l
 Matching Defaults entries for charlie on chocolate-factory:
